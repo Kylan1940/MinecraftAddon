@@ -1,0 +1,1 @@
+tellraw @p {"rawtext":[{"text":"[HINT - 5] Collect strings, craft wools and go to the top with wool"}]}

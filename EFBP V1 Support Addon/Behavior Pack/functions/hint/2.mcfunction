@@ -1,0 +1,1 @@
+tellraw @p {"rawtext":[{"text":"[HINT - 2] Make a slow falling potion and jump to the bottom with slow falling potion"}]}
