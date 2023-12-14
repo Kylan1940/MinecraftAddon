@@ -1,1 +1,1 @@
-tellraw @p {"rawtext":[{"text":"[HINT - 3] Make a diamond pickaxe and break the obsidian"}]}
+tellraw @p {"rawtext":[{"text":"§aHINT - 3: \n§fMake a diamond pickaxe and break the obsidian"}]}

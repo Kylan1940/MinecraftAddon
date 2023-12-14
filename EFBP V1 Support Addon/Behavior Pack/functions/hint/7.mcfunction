@@ -1,1 +1,1 @@
-tellraw @p {"rawtext":[{"text":"[HINT - 7] Craft a chain, place on one block behind the door and parkour"}]}
+tellraw @p {"rawtext":[{"text":"§aHINT - 7: \n§fCraft a chain, place on one block behind the door and parkour"}]}

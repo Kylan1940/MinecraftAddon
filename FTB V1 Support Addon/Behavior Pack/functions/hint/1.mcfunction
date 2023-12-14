@@ -1,0 +1,1 @@
+tellraw @p {"rawtext":[{"text":"§aHINT - 1: \n§fBe a monkey"}]}

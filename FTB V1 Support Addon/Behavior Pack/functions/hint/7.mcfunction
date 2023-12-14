@@ -1,0 +1,1 @@
+tellraw @p {"rawtext":[{"text":"§aHINT - 7: \n§fInside the lava (146, 23) (active show coordinate in settings)"}]}

@@ -1,0 +1,1 @@
+tellraw @p {"rawtext":[{"text":"§aHINT - 10: \n§fCheck the button one by one"}]}

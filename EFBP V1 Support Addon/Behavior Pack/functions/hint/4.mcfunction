@@ -1,1 +1,1 @@
-tellraw @p {"rawtext":[{"text":"[HINT - 4] Take bow and arrow in a barrel on top of the lava and shoot to the tnt"}]}
+tellraw @p {"rawtext":[{"text":"§aHINT - 4: \n§fTake bow and arrow in a barrel on top of the lava and shoot to the tnt"}]}

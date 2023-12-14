@@ -4,7 +4,7 @@
    "description": "Support Addon For EscapeFromBedrockPrison V1 by Kylan1940",
    "name": "EFBP V1 Support Addon",
    "uuid":"4932cab8-12ba-42de-ad85-e1975d86a637",
-   "version": [1, 0, 0],
+   "version": [1, 1, 0],
    "min_engine_version": [1, 16, 0]
   },
  "modules": [
@@ -12,7 +12,7 @@
      "description": "Support Addon For EscapeFromBedrockPrison V1 by Kylan1940",
      "type": "data",
      "uuid": "187b3e9f-fae1-4361-8568-a4475f9accab",
-     "version": [1, 0, 0]
+     "version": [1, 1, 0]
    }
  ]
 }

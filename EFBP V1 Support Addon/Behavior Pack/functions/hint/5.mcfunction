@@ -1,1 +1,1 @@
-tellraw @p {"rawtext":[{"text":"[HINT - 5] Collect strings, craft wools and go to the top with wool"}]}
+tellraw @p {"rawtext":[{"text":"§aHINT - 5: \n§fCollect strings, craft wools and go to the top with wool"}]}
