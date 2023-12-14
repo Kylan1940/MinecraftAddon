@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "Support Addon For 25WaysToDie by Kylan1940",
+   "name": "25WTD Support Addon",
+   "uuid":"0c927fc8-3c35-42f2-a471-2e789c2aae4b",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "Support Addon For 25WaysToDie by Kylan1940",
+     "type": "data",
+     "uuid": "360a8bf6-df90-438f-aa58-705fdab76023",
+     "version": [1, 0, 0]
+   }
+ ]
+}
