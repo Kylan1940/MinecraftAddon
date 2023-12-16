@@ -1,1 +1,1 @@
-kill @a
+  kill @a
