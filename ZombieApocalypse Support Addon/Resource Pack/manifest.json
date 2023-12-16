@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "Support Addon For ZombieApocalypse by Kylan1940",
+   "name": "ZA Support Addon",
+   "uuid":"70e4645e-8e1e-439f-8c4c-2b26121d9e67",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "Support Addon For ZombieApocalypse by Kylan1940",
+     "type": "resources",
+     "uuid": "0c927fc8-3c35-42f2-a471-2e789c2aae4b",
+     "version": [1, 0, 0]
+   }
+ ]
+}

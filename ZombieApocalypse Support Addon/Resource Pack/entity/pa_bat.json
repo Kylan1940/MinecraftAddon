@@ -1,0 +1,36 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "pa:bat",
+      "materials": {
+        "default": "bat"
+      },
+      "textures": {
+        "default": "textures/entity/pamobile/pa_bat"
+      },
+      "geometry": {
+        "default": "geometry.pa_bat"
+      },
+      "scripts": {
+        "scale": "0.35"
+      },
+      "animations": {
+        "resting": "animation.bat.resting",
+        "flying": "animation.bat.flying"
+      },
+      "animation_controllers": [
+        {
+          "move": "controller.animation.bat.move"
+        }
+      ],
+      "render_controllers": [
+        "controller.render.bat"
+      ],
+      "spawn_egg": {
+        "base_color": "#EA9A51",
+        "overlay_color": "#FF0909"
+      }
+    }
+  }
+}
