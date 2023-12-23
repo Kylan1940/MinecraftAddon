@@ -1,0 +1,40 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "'Minecraft But' Addon by Kylan1940 \nDownload: mcpedl.com/minecraft-but-by-kylan1940",
+   "name": "'Minecraft But' Addon",
+   "uuid":"5493bbd5-b900-4350-971a-9fe071bea75d",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 19, 50]
+  },
+ "modules": [
+   {
+     "description": "'Minecraft But' Addon by Kylan1940 \nDownload: mcpedl.com/minecraft-but-by-kylan1940",
+     "type": "data",
+     "uuid": "c00c6375-2980-4f7f-9c8b-d336af02ece5",
+     "version": [1, 0, 0]
+   }
+ ],
+ "subpacks": [
+   {
+     "folder_name": "onehit",
+     "name": "Minecraft But One Hit One Kill",
+     "memory_tier": 1
+   },
+   {
+     "folder_name": "flash",
+     "name": "Minecraft But You're Flash",
+     "memory_tier": 1
+   },
+   {
+     "folder_name": "immortal",
+     "name": "Minecraft But You're Immortal",
+     "memory_tier": 1
+   },
+   {
+     "folder_name": "heart",
+     "name": "Minecraft But You Only Have 0.5 Health",
+     "memory_tier": 1
+   }
+ ]
+}
