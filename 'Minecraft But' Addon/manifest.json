@@ -35,6 +35,11 @@
      "folder_name": "heart",
      "name": "Minecraft But You Only Have 0.5 Health",
      "memory_tier": 1
+   },
+   {
+     "folder_name": "underwater",
+     "name": "Minecraft But You Only Breath Underwater",
+     "memory_tier": 1
    }
  ]
 }
