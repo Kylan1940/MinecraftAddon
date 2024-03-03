@@ -40,6 +40,16 @@
      "folder_name": "underwater",
      "name": "Minecraft But You Only Breath Underwater",
      "memory_tier": 1
+   }, 
+   {
+     "folder_name": "hostile",
+     "name": "Minecraft But All Mobs Are Hostile",
+     "memory_tier": 1
+   },
+   {
+     "folder_name": "sun",
+     "name": "Minecraft But You Burn in Day Light",
+     "memory_tier": 1
    }
  ]
 }
