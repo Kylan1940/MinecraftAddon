@@ -2,7 +2,7 @@
 Support Addon For GuessTheName by Kylan1940
 
 # Map Download
-[You can download GuessTheName here](https://www.planetminecraft.com/project/find-the-button-v1-6048320/)
+[You can download GuessTheName here](https://www.planetminecraft.com/project/minecraft-trivia-guess-the-name-6226833/)
 
 # DON'T
 >- DON'T Make A Video For This Map WITHOUT GIVING A CREDIT OF THIS MAP
