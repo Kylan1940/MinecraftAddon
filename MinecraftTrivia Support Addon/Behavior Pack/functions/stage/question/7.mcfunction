@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"text":"How many blocks can a Lead hold?"}]}

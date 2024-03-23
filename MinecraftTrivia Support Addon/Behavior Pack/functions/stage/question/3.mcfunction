@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"text":"The first version of Minecraft was released for PC players on May 17, 2009 and it was called"}]}

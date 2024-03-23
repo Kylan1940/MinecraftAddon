@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"text":"How many iron ingot does it take to make iron armor?"}]}

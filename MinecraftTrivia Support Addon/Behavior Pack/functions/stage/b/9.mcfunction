@@ -1,5 +1,6 @@
 title @a title §aCORRECT
 scoreboard players add @a Points 2
+tellraw @a {"rawtext":[{"text":"An entire day in Minecraft just 20 minutes in real-world time. According to the in-game clock, the day begins at 6 AM, and the sun reaches its peak at noon only five minutes later."}]}
 setblock ~2 ~2 ~ air
 setblock ~ ~2 ~ air
 setblock ~-2 ~2 ~ air

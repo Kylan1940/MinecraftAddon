@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"text":"What did Mojang do to celebrate Minecraft's 10-year anniversary in 2019?"}]}

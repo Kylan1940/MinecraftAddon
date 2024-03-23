@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"text":"Which country plays Minecraft the most?"}]}

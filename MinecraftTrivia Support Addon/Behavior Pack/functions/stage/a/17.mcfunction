@@ -1,5 +1,6 @@
 title @a title §cINCORRECT
-title @a subtitle Answer: §7Melon
+title @a subtitle Answer: §7Red Nether Brick
+tellraw @a {"rawtext":[{"text":"End Stone Bricks generate in End Cities and Smooth Sandstone generates in Desert Villages."}]}
 setblock ~ ~2 ~ air
 setblock ~-2 ~2 ~ air
 setblock ~-4 ~2 ~ air

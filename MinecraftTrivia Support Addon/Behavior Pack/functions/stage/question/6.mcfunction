@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"text":"Which of these mobs has the most health points on bedrock?"}]}
