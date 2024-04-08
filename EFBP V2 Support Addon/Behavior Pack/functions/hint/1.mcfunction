@@ -1,0 +1,1 @@
+tellraw @p {"rawtext":[{"text":"§aHINT - 1: \n§fTake 3 iron ingots from hopper, craft a bucket, take water from cauldron, and go up with water bucket."}]}

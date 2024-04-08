@@ -1,0 +1,68 @@
+{
+  "tiers": [
+    {
+      "groups": [
+        {
+          "num_to_select": 0,
+          "trades": [
+            {
+              "max_uses": 999,
+              "wants": [
+                {
+                  "item": "minecraft:jukebox"
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:yellow_flower"
+                }
+              ]
+            },
+            {
+              "max_uses": 999,
+              "wants": [
+                {
+                  "item": "minecraft:yellow_flower",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:redstone"
+                }
+              ]
+            },
+            {
+              "max_uses": 999,
+              "wants": [
+                {
+                  "item": "minecraft:compass" 
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:bow"
+                }
+              ]
+            },
+            {
+              "max_uses": 999,
+              "wants": [
+                {
+                  "item": "minecraft:repeater",
+                  "quantity": 2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:arrow",
+                  "quantity": 32
+                }
+              ]
+             }
+          ]
+        }
+      ]
+    }
+  ]
+}

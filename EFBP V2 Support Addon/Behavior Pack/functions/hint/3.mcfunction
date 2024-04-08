@@ -1,0 +1,1 @@
+tellraw @p {"rawtext":[{"text":"§aHINT - 3: \n§fMake a water breathing potion, destroy obsidian, take emerald block, place it, and go back."}]}

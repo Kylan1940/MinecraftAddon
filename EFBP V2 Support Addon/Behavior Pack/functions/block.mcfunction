@@ -1,0 +1,13 @@
+setblock 57 -56 31 log
+setblock 58 -55 31 log
+setblock 58 -56 31 log
+setblock 58 -56 32 log
+setblock 54 -56 31 stone
+setblock 53 -56 31 stone
+setblock 52 -56 31 stone
+setblock 58 -56 35 iron_ore
+setblock 58 -55 36 iron_ore
+setblock 58 -56 36 iron_ore
+setblock 49 -56 37 diamond_ore
+setblock 49 -55 36 diamond_ore
+setblock 49 -56 36 diamond_ore

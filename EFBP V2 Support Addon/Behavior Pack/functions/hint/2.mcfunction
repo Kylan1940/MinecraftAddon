@@ -1,0 +1,1 @@
+tellraw @p {"rawtext":[{"text":"§aHINT - 2: \n§fMake a water bucket from wet sponge, go to the top with water, make wet sponge again and place it on light blue concrete."}]}
