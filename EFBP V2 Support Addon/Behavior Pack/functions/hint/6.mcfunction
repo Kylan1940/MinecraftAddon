@@ -1,0 +1,1 @@
+tellraw @p {"rawtext":[{"text":"§aHINT - 6: \n§fMove emerald block to light blue concrete with piston and sticky piston."}]}
