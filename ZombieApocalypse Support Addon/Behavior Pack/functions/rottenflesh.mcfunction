@@ -1,1 +1,0 @@
-execute as @a run execute as @s at @s run execute as @e[name="Rotten Flesh",c=1] run execute as @s at @s run scoreboard players add @p money 10

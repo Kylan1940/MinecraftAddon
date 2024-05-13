@@ -6,4 +6,6 @@ tp @a 6 -53 -5
 scoreboard objectives add wave dummy
 scoreboard players add @a wave 1
 function wave/1
-replaceitem entity @a slot.hotbar 0 wooden_sword
+setblock 2 -60 -10 redstone_block
+setblock 4 -60 -13 redstone_wire
+setblock -2 -60 -13 redstone_wire

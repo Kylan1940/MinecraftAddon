@@ -1,0 +1,1 @@
+replaceitem entity @a slot.hotbar 0 diamond_sword
