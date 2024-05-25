@@ -1,4 +1,4 @@
-title @a title §cWAVE 20 (FINAL)
+title @a title §cWAVE 20
 structure load zombie_5 6 -49 -6
 structure load zombie_5 6 -53 -5
 structure load zombie_5 6 -53 -3
