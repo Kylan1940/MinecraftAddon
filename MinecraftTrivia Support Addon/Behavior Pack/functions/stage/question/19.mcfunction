@@ -1,1 +1,0 @@
-tellraw @a {"rawtext":[{"text":"The odds of getting chicken by trowing an egg are?"}]}

@@ -1,0 +1,1 @@
+tellraw @p {"rawtext":[{"text":"§9Expected Death - 36: \n§fShot yourself with fireball thrown from the dispenser"}]}

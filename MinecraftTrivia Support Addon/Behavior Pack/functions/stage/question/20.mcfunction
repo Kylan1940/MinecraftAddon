@@ -1,1 +1,0 @@
-tellraw @a {"rawtext":[{"text":"These additions was the result of a community vote, except"}]}

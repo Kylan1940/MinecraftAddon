@@ -1,1 +1,0 @@
-tellraw @a {"rawtext":[{"text":"How many pieces of Netherite Scrap would you need to build a fully-powered Beacon pyramid with all Netherite blocks?"}]}

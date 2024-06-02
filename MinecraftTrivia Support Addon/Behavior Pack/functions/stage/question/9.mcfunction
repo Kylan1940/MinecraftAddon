@@ -1,1 +1,0 @@
-tellraw @a {"rawtext":[{"text":"How long is one Minecraft day in real time?"}]}

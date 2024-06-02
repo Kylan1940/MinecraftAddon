@@ -1,1 +1,0 @@
-tellraw @a {"rawtext":[{"text":"What is the smallest mob in Minecraft?"}]}

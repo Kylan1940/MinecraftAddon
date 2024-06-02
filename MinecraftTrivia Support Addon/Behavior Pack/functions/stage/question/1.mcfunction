@@ -1,1 +1,0 @@
-tellraw @a {"rawtext":[{"text":"Minecraft was first made public in May 2009 before being fully released on"}]}

@@ -1,1 +1,0 @@
-tellraw @a {"rawtext":[{"text":"In 2014, Mojang and the Minecraft intellectual property were purchased by Microsoft for"}]}

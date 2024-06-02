@@ -1,1 +1,0 @@
-tellraw @a {"rawtext":[{"text":"Iron golem will attack the following mobs, except"}]}
