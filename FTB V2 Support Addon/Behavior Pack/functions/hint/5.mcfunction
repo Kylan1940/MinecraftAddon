@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"text":"§9LEVEL 5 - OCEAN \n§2HINT: §fCheck all holes in the coral"}]}

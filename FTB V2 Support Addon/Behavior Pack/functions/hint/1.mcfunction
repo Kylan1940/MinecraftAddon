@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"text":"§9LEVEL 1 - HOUSE \n§2HINT A: §fGo to kitchen and take lever from furnace \n§2HINT B: §fGo to storage room and check every behind chest. \n§2HINT C: §fBe a Monkey and check behind the house"}]}
