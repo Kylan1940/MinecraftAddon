@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "Support Addon For EscapeFromBedrockPrison V3 by Kylan1940",
+   "name": "EFBP V3 Support Addon",
+   "uuid":"95ce2624-c3cc-4d21-8b25-b3835cab13c3",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "Support Addon For EscapeFromBedrockPrison V3 by Kylan1940",
+     "type": "data",
+     "uuid": "3b735354-02f2-4282-a8a3-474be46dccc1",
+     "version": [1, 0, 0]
+   }
+ ]
+}

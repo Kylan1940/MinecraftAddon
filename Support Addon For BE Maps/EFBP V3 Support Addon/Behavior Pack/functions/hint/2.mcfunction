@@ -1,0 +1,1 @@
+tellraw @p {"rawtext":[{"text":"§aHINT - 2: \n§aA: §fBreak the obsidian. \n§aB: §fCollect strings, craft wools and go to the top with wool. \n§aC: §fBurn all iron tools and armors, craft lentern and go to the top with crafting table, furnace, chest, and lentern."}]}

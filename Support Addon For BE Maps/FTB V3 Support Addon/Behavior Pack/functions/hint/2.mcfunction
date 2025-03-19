@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"text":"§9LEVEL 2 - SNOW \n§2HINT: §fThere are many impostor snow. But can you find the correct one of the impostor. §cTry parkour to the highest tree and jump into the correct impostor snow!"}]}

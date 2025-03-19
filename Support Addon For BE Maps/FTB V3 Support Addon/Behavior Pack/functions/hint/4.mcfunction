@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"text":"§9LEVEL 4 - SPRUCE \n§2HINT: §fPlaying hide and seek is fun. The button also thinks that hide and seek is fun. §cTry find the button behind the house, button disguised as roof!"}]}

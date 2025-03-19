@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"text":"§9LEVEL 8 - END \n§2HINT: §fUh - Oh, this is the end of the map. But, is this the end of everything? §cFirst, look at your head slot. Second, parkour to the highest point and place the button in the wool!"}]}

@@ -1,0 +1,1 @@
+tellraw @p {"rawtext":[{"text":"§aHINT - 3: \n§fMake stained glass from 6 burned red sand, don't forget to destroy the crafting table and chest to help climb up. Take the bedrock in the barrel and press the button next to the barrel."}]}

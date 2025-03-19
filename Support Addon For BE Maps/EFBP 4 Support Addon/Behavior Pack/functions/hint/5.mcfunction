@@ -1,0 +1,1 @@
+tellraw @p {"rawtext":[{"text":"§aHINT - 5: \n§f1. Make a jump boost potion \n2. Make a snow golem, take the snow and make a snow block, then cross it.  Take the boat from the chest, and take the wool for the hint."}]}

@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"text":"§9LEVEL 1 - MESA \n§2HINT : §fThe button is on the highest block. There is invisible block above dead bushes. §cTry parkour and go to the highest block!"}]}

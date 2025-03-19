@@ -1,0 +1,1 @@
+tellraw @p {"rawtext":[{"text":"§aHINT - 2: \n§f1. Place ice and stained glass under the ice, then break the ice, then get out. \n2. Make a fire resistance potion and go up through the lava."}]}

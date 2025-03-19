@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"text":"§9LEVEL 6 - MUSHROOM \n§2HINT: §fDo you prefer chest or barrel? I think the button prefer chest than barrel. §cTry find the button behind the chest!"}]}

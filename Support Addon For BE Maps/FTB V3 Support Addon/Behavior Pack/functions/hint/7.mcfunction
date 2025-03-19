@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"text":"§9LEVEL 7 - DESERT \n§2HINT: §fIt's hot in here. Is it hot in the pyramid? §cTry find the button behind the treasure inside the pyramid!"}]}

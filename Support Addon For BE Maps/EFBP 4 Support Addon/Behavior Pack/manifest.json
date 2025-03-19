@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "Support Addon For Escape From Bedrock Prison 4 by Kylan1940",
+   "name": "EFBP 4 Support Addon",
+   "uuid":"88988f59-c408-4050-98ba-949fe26a69fa",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "Support Addon For Escape From Bedrock Prison 4 by Kylan1940",
+     "type": "data",
+     "uuid": "eece3e4c-5850-4805-b68a-164fe5f12991",
+     "version": [1, 0, 0]
+   }
+ ]
+}

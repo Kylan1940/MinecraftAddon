@@ -1,0 +1,1 @@
+tellraw @p {"rawtext":[{"text":"§aHINT - 4: \n§aA: §fLead the chickens to all pressure plates. \n§aB: §fCheck all rooms and take all hints \n§aC: §fCheck for the same number among all hints and rename the paper with the same number. \n§aD: §fPut the paper into dropper and press the button."}]}

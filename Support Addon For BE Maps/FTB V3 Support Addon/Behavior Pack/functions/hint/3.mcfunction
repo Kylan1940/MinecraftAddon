@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"text":"§9LEVEL 3 - OLD VILLAGE \n§2HINT: §fWho misses the old village? I am one of them. But, wait, do you see anything in the tree? §cTry looking around the tree, you have to jump to press the button!"}]}

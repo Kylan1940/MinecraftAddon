@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "Support Addon For FindTheButton V3 by Kylan1940",
+   "name": "FTB V3 Support Addon",
+   "uuid":"512386cf-4bc5-4665-ba5f-bd7d244017cc",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "Support Addon For FindTheButton V3 by Kylan1940",
+     "type": "data",
+     "uuid": "0075b6f5-3f53-4fc0-92dd-ad79eb6986b8",
+     "version": [1, 0, 0]
+   }
+ ]
+}
