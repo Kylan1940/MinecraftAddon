@@ -1,8 +1,8 @@
 # Description
-Support Addon For 40 WaysToDie by Kylan1940
+Support Addon For 50 WaysToDie by Kylan1940
 
 # Map Download
-[You can download 40 WaysToDie here](https://www.planetminecraft.com/project/25-ways-to-die-6040647/)
+[You can download 50 WaysToDie here](https://www.planetminecraft.com/project/25-ways-to-die-6040647/)
 
 # DON'T
 >- DON'T Make A Video For This Map WITHOUT GIVING A CREDIT OF THIS MAP
